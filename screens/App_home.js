@@ -61,7 +61,7 @@ class App_home extends Component {
               marginTop: 18,
               fontFamily: 'IBMPlexSansThai-Bold',
             }}>
-            สวัสดี คุณ ปกรณ์เกียรติ
+            สวัสดี คุณ จิรภัทร
           </Text>
           <Text
             style={{
